@@ -5764,11 +5764,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\EF\\MovieCatalog\\MovieCatalog.Data\\MovieCatalog.Data.csproj",
+      "projectUniqueName": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\Szoftec_labor_4\\MovieCatalog\\MovieCatalog.Data\\MovieCatalog.Data.csproj",
       "projectName": "MovieCatalog.Data",
-      "projectPath": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\EF\\MovieCatalog\\MovieCatalog.Data\\MovieCatalog.Data.csproj",
+      "projectPath": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\Szoftec_labor_4\\MovieCatalog\\MovieCatalog.Data\\MovieCatalog.Data.csproj",
       "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\EF\\MovieCatalog\\MovieCatalog.Data\\obj\\",
+      "outputPath": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\Szoftec_labor_4\\MovieCatalog\\MovieCatalog.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

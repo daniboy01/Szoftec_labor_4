@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KpInm6wkvGE8IcO1aLeaHSvvgY4apuP/f8pPQIMjCqie/yI2II+ppyuhbYKJsPWqB6tzRrlUm1Yf/mLc3HEeFA==",
+  "dgSpecHash": "Vng6IBfwfLnp61piMdjTTJ+4XsdPbEO5Atw58abP0829keWiVCq8pFRyIXO8x/UoccN8Y2v3y/ddC7SiicNQig==",
   "success": true,
-  "projectFilePath": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\EF\\MovieCatalog\\MovieCatalog.Terminal\\MovieCatalog.Terminal.csproj",
+  "projectFilePath": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\Szoftec_labor_4\\MovieCatalog\\MovieCatalog.Terminal\\MovieCatalog.Terminal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

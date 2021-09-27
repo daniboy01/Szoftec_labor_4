@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YJPLb/fnT6vNd6UpMOMQYlRzofZTzyjQ++UejnOy9Mbhutd4X+32t3RRxWQ2jKYf81a9+f5TVfo0M54KaMf5wg==",
+  "dgSpecHash": "MFBYmTsUYBtLK6nvORs20rmbBktVCFN3PLVV4T8ANt7ZoqVAtQJm+Iw/MY1nhyWPK96BYBLklEN3WUrzPVGqrw==",
   "success": true,
-  "projectFilePath": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\EF\\MovieCatalog\\MovieCatalog.Data\\MovieCatalog.Data.csproj",
+  "projectFilePath": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\Szoftec_labor_4\\MovieCatalog\\MovieCatalog.Data\\MovieCatalog.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

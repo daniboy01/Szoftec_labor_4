@@ -6441,11 +6441,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\EF\\MovieCatalog\\MovieCatalog.Terminal\\MovieCatalog.Terminal.csproj",
+      "projectUniqueName": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\Szoftec_labor_4\\MovieCatalog\\MovieCatalog.Terminal\\MovieCatalog.Terminal.csproj",
       "projectName": "MovieCatalog.Terminal",
-      "projectPath": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\EF\\MovieCatalog\\MovieCatalog.Terminal\\MovieCatalog.Terminal.csproj",
+      "projectPath": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\Szoftec_labor_4\\MovieCatalog\\MovieCatalog.Terminal\\MovieCatalog.Terminal.csproj",
       "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\EF\\MovieCatalog\\MovieCatalog.Terminal\\obj\\",
+      "outputPath": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\Szoftec_labor_4\\MovieCatalog\\MovieCatalog.Terminal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6465,8 +6465,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\EF\\MovieCatalog\\MovieCatalog.Data\\MovieCatalog.Data.csproj": {
-              "projectPath": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\EF\\MovieCatalog\\MovieCatalog.Data\\MovieCatalog.Data.csproj"
+            "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\Szoftec_labor_4\\MovieCatalog\\MovieCatalog.Data\\MovieCatalog.Data.csproj": {
+              "projectPath": "D:\\BME_Laborok_eloadasok\\Szoftverfejlesztes_laborok\\Szoftec_labor_4\\MovieCatalog\\MovieCatalog.Data\\MovieCatalog.Data.csproj"
             }
           }
         }
