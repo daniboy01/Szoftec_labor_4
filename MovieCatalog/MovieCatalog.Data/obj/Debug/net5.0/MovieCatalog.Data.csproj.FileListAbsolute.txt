@@ -1,0 +1,15 @@
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\EF\MovieCatalog\MovieCatalog.Data\bin\Debug\net5.0\MovieCatalog.Data.deps.json
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\EF\MovieCatalog\MovieCatalog.Data\bin\Debug\net5.0\MovieCatalog.Data.runtimeconfig.json
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\EF\MovieCatalog\MovieCatalog.Data\bin\Debug\net5.0\MovieCatalog.Data.runtimeconfig.dev.json
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\EF\MovieCatalog\MovieCatalog.Data\bin\Debug\net5.0\MovieCatalog.Data.dll
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\EF\MovieCatalog\MovieCatalog.Data\bin\Debug\net5.0\ref\MovieCatalog.Data.dll
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\EF\MovieCatalog\MovieCatalog.Data\bin\Debug\net5.0\MovieCatalog.Data.pdb
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\EF\MovieCatalog\MovieCatalog.Data\obj\Debug\net5.0\MovieCatalog.Data.csprojAssemblyReference.cache
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\EF\MovieCatalog\MovieCatalog.Data\obj\Debug\net5.0\MovieCatalog.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\EF\MovieCatalog\MovieCatalog.Data\obj\Debug\net5.0\MovieCatalog.Data.AssemblyInfoInputs.cache
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\EF\MovieCatalog\MovieCatalog.Data\obj\Debug\net5.0\MovieCatalog.Data.AssemblyInfo.cs
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\EF\MovieCatalog\MovieCatalog.Data\obj\Debug\net5.0\MovieCatalog.Data.csproj.CoreCompileInputs.cache
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\EF\MovieCatalog\MovieCatalog.Data\obj\Debug\net5.0\MovieCatalog.Data.dll
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\EF\MovieCatalog\MovieCatalog.Data\obj\Debug\net5.0\ref\MovieCatalog.Data.dll
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\EF\MovieCatalog\MovieCatalog.Data\obj\Debug\net5.0\MovieCatalog.Data.pdb
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\EF\MovieCatalog\MovieCatalog.Data\obj\Debug\net5.0\MovieCatalog.Data.genruntimeconfig.cache
