@@ -51,6 +51,35 @@ namespace MovieCatalog.Api
             await service.DeleteGenreAsync(id);
         }
 
+        //XWSW5U
+
+        public async Task<TitleDto> GetTitleById(int id)
+        {
+            var title = await service.GetTitleByIdAsync(id);
+
+            return mapTitleToDto(title);            
+        }
+
+        private TitleDto mapTitleToDto(Title title)
+        {
+            var dto = new TitleDto
+            {
+                Id = title.Id,
+                TConst = title.TConst,
+                PrimaryTitle = title.PrimaryTitle,
+                OriginalTitle = title.OriginalTitle,
+                TitleType = title.TitleType.ToString(),
+                StartYear = title.StartYear,
+                EndYear = title.EndYear,
+                RuntimeMinutes = title.RuntimeMinutes,
+                AverageRating = title.AverageRating,
+                NumberOfVotes = title.NumberOfVotes,
+                GenreIds = title.Genres.Select(g => g.Id).ToList()
+            };
+
+            return dto;
+        }
+
     }
 }
-//XWSW5U
+
