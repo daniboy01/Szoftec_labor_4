@@ -40,5 +40,17 @@ namespace MovieCatalog.Api
             return new GenreDto { Id = genre.Id, Name = genre.Name };
         }
 
+        public async Task<GenreDto> CreateNewGenreAsync(string name)
+        {
+            var genre = await service.InsertOrUpdateGenreAsync(null, name);
+            return new GenreDto { Id = genre.Id, Name = genre.Name };
+        }
+
+        public async Task DeleteGenreAsync(int id)
+        {
+            await service.DeleteGenreAsync(id);
+        }
+
     }
 }
+//XWSW5U

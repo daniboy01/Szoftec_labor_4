@@ -40,8 +40,18 @@ namespace MovieCatalog.Api.Controllers
         }
 
         [HttpPost]
-        public void Post([FromBody] string name)
+        public async Task<IActionResult> Post([FromBody] string name)
         {
+            try
+            {
+                var genre = await service.CreateNewGenreAsync(name);
+                return Created("/api/genres/" + genre.Id, genre);
+            }
+            catch(Exception e)
+            {
+                return Conflict("Category with name : " + name + " alerady exist!");
+
+            }
         }
         //XWSW5U
         [HttpPut("{id}")]
@@ -68,8 +78,10 @@ namespace MovieCatalog.Api.Controllers
         }
 
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
+            await service.DeleteGenreAsync(id);
+            return NoContent();
         }
     }
 }
