@@ -1,0 +1,12 @@
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\Szoftec_labor_4\MovieCatalog.Service\bin\Debug\net5.0\MovieCatalog.Service.deps.json
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\Szoftec_labor_4\MovieCatalog.Service\bin\Debug\net5.0\MovieCatalog.Service.dll
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\Szoftec_labor_4\MovieCatalog.Service\bin\Debug\net5.0\ref\MovieCatalog.Service.dll
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\Szoftec_labor_4\MovieCatalog.Service\bin\Debug\net5.0\MovieCatalog.Service.pdb
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\Szoftec_labor_4\MovieCatalog.Service\obj\Debug\net5.0\MovieCatalog.Service.csprojAssemblyReference.cache
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\Szoftec_labor_4\MovieCatalog.Service\obj\Debug\net5.0\MovieCatalog.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\Szoftec_labor_4\MovieCatalog.Service\obj\Debug\net5.0\MovieCatalog.Service.AssemblyInfoInputs.cache
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\Szoftec_labor_4\MovieCatalog.Service\obj\Debug\net5.0\MovieCatalog.Service.AssemblyInfo.cs
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\Szoftec_labor_4\MovieCatalog.Service\obj\Debug\net5.0\MovieCatalog.Service.csproj.CoreCompileInputs.cache
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\Szoftec_labor_4\MovieCatalog.Service\obj\Debug\net5.0\MovieCatalog.Service.dll
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\Szoftec_labor_4\MovieCatalog.Service\obj\Debug\net5.0\ref\MovieCatalog.Service.dll
+D:\BME_Laborok_eloadasok\Szoftverfejlesztes_laborok\Szoftec_labor_4\MovieCatalog.Service\obj\Debug\net5.0\MovieCatalog.Service.pdb
