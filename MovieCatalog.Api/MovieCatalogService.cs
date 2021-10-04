@@ -60,6 +60,28 @@ namespace MovieCatalog.Api
             return mapTitleToDto(title);            
         }
 
+        public async Task<TitleDto> SaveOrUptdateTitleAsync(int? id, TitleDto dto)
+        {
+            var title = await service.InsertOrUpdateTitleAsync(
+                    id,
+                    dto.PrimaryTitle,
+                    dto.OriginalTitle,
+                    (TitleType)Enum.Parse(typeof(TitleType), dto.TitleType),
+                    dto.StartYear,
+                    dto.EndYear,
+                    dto.RuntimeMinutes,
+                    dto.AverageRating,
+                    dto.NumberOfVotes,
+                    dto.Genres
+                );
+            return mapTitleToDto(title);
+        }
+
+        public async Task DeleteTitleAsync(int id)
+        {
+            await service.DeleteTitleAsync(id);
+        }
+
         private TitleDto mapTitleToDto(Title title)
         {
             var dto = new TitleDto
@@ -74,7 +96,7 @@ namespace MovieCatalog.Api
                 RuntimeMinutes = title.RuntimeMinutes,
                 AverageRating = title.AverageRating,
                 NumberOfVotes = title.NumberOfVotes,
-                GenreIds = title.Genres.Select(g => g.Id).ToList()
+                Genres = title.Genres.Select(g => g.Genre.Name).ToList()
             };
 
             return dto;

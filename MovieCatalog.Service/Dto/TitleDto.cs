@@ -19,6 +19,6 @@ namespace MovieCatalog.Service.Dto
         public int? RuntimeMinutes { get; set; }
         public float? AverageRating { get; set; }
         public int NumberOfVotes { get; set; }
-        public List<int>? GenreIds { get; set; }
+        public List<string>? Genres { get; set; }
     }
 }
