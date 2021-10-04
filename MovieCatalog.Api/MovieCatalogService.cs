@@ -57,7 +57,7 @@ namespace MovieCatalog.Api
         {
             var title = await service.GetTitleByIdAsync(id);
 
-            return mapTitleToDto(title);            
+            return mapTitleToDto(title);
         }
 
         public async Task<TitleDto> SaveOrUptdateTitleAsync(int? id, TitleDto dto)
@@ -80,6 +80,11 @@ namespace MovieCatalog.Api
         public async Task DeleteTitleAsync(int id)
         {
             await service.DeleteTitleAsync(id);
+        }
+
+        public async Task<PagedResult<Title>> GetAllTitle(int page, int pageSize, MoviesFilter filter, TitleSort sort, bool sortDescending)
+        {
+            return await service.GetTitlesAsync(page, pageSize, filter, sort, sortDescending);
         }
 
         private TitleDto mapTitleToDto(Title title)
